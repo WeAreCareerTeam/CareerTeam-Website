@@ -1,0 +1,35 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.idea/
+.vscode/
+
+# Node/Front-end (in case used locally)
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# PHP
+vendor/
+composer.lock
+
+# Build/Cache
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# Env / Secrets
+.env
+.env.*
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+
